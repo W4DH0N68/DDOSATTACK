@@ -4,9 +4,9 @@ import random
 import sys
 def usage():
     print "\033[1;32m#########################################################"
-    print "#------------------------[\033[1;91mLITE-DDOS\033[1;32m]---------------------#"
+    print "#------------------------[\033[1;91mDDOS-ATTACK\033[1;32m]---------------------#"
     print "#-------------------------------------------------------#"
-    print "#   \033[1;91mCommand: " "python2 LITEDDOS.py " "<ip> <port> <packet> \033[1;32m   #"
+    print "#   \033[1;91mCommand: " "python2 DDOSATTACK.py " "<ip> <port> <packet> \033[1;32m   #"
     print "#                                                       #"
     print "#\033[1;91mCreator:WAHAB RAMADHAN  \033[1;32m##      ###       ##                #"
     print "#\033[1;91mTeam   : W4DH0N68        \033[1;32m##     #          ##                #"
